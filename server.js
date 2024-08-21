@@ -15,7 +15,7 @@ const io = socketIO(server);
 connectDB();
 app.use(
   cors({
-    origin: "https://task2-m0gn.onrender.com",
+    origin: "https://task2-1.onrender.com",
   })
 );
 
